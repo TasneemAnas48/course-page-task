@@ -22,5 +22,5 @@ export default defineConfig({
   build: {
     sourcemap: true,
   },
-  base: '/course-page-task/',
+  // base: '/',
 });
