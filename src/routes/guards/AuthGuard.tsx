@@ -6,7 +6,7 @@ const AuthGuard = () => {
     const { accessToken } = useSelector((state: RootState) => state.auth);
 
     if (!accessToken) {
-        return <Navigate to="/home" replace />;
+        return <Navigate to="/" replace />;
     }
 
     return <Outlet />;
