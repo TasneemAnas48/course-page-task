@@ -1,0 +1,37 @@
+html {
+  --background: 0 0% 100%; /* White */
+  --foreground: 250 100% 17%; /* Very Dark Blue */
+  --card: 0 0% 100%; /* White */
+  --card-foreground: 222.2 84% 4.9%; /* Very Dark Blue */
+  --popover: 0 0% 100%; /* White */
+  --popover-foreground: 222.2 84% 4.9%; /* Very Dark Blue */
+  --primary: 222.2 47.4% 11.2%; /* Dark Blue */
+  --primary-foreground: 210 40% 98%; /* Almost White Blue */
+  --secondary: 210 40% 96.1%; /* Light Blue */
+  --secondary-foreground: 222.2 47.4% 11.2%; /* Dark Blue */
+  --muted: 210 40% 96.1%; /* Light Blue */
+  --muted-foreground: 215.4 16.3% 46.9%; /* Medium Grayish Blue */
+  --accent: 210 40% 96.1%; /* Light Blue */
+  --accent-foreground: 222.2 47.4% 11.2%; /* Dark Blue */
+  --destructive: 0 84.2% 60.2%; /* Soft Red */
+  --destructive-foreground: 210 40% 98%; /* Almost White Blue */
+  --border: 214.3 31.8% 91.4%; /* Very Light Blue */
+  --input: 214.3 31.8% 91.4%; /* Very Light Blue */
+  --ring: 222.2 84% 4.9%; /* Very Dark Blue */
+  --chart-1: 12 76% 61%; /* Warm Orange-Red */
+  --chart-2: 173 58% 39%; /* Dark Teal */
+  --chart-3: 197 37% 24%; /* Dark Blue */
+  --chart-4: 43 74% 66%; /* Soft Yellow */
+  --chart-5: 27 87% 67%; /* Soft Orange */
+  --radius: 0.5rem; /* Border Radius */
+  --sidebar-background: 0 0% 98%; /* Very Light Gray */
+  --sidebar-foreground: 240 5.3% 26.1%; /* Dark Grayish Blue */
+  --sidebar-primary: 240 5.9% 10%; /* Very Dark Grayish Blue */
+  --sidebar-primary-foreground: 0 0% 98%; /* Very Light Gray */
+  --sidebar-accent: 240 4.8% 95.9%; /* Almost White Blue */
+  --sidebar-accent-foreground: 240 5.9% 10%; /* Very Dark Grayish Blue */
+  --sidebar-border: 220 13% 91%; /* Light Blue Gray */
+  --sidebar-ring: 217.2 91.2% 59.8%; /* Light Cyan */
+  --scroll-bar: 250 9% 17%;
+  --scroll-bar-hover:250 9% 60%;
+}

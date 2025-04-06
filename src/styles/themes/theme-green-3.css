@@ -1,0 +1,37 @@
+html[data-theme="green 3"] {
+  --background: 165, 44%, 4%; /* Dark Blue */
+  --foreground: 0, 0%, 100%; /* Bright Green */
+  --card: 159, 76%, 6%; /* Vivid Pink */
+  --primary: 158 96% 48%; /* Green */
+  --primary-foreground: 159, 76%, 6%; /* Bright Green */
+  --secondary: 159, 76%, 6%; /* Deep Blue-Green */
+  --secondary-foreground: 158, 96%, 48%; /* Dark Blue */
+  --card-foreground: 32 30% 76%; /* Deep Blue-Green */
+  --popover: 220 5% 12%; /* Dark Blue */
+  --popover-foreground: 0 0% 100%; /* Bright Green */
+  --muted: 220 5% 12%; /* Dark Blue */
+  --muted-foreground: 158, 94%, 28%; /* Bright Green */
+  --accent: 158, 96%, 48%; /* Vivid Pink */
+  --accent-foreground: 0 0% 0%; /* Bright Green */
+  --destructive: 0 62.8% 30.6%; /* Dark Red */
+  --destructive-foreground: 210 40% 98%; /* Almost White Blue */
+  --border: 220 5% 12%; /* Dark Blue */
+  --input: 220 5% 12%; /* Dark Blue */
+  --ring: 158, 94%, 28%; /* Bright Green */
+  --radius: 0.5rem; /* Border Radius */
+  --chart-1: 356 69% 51%; /* Vivid Pink */
+  --chart-2: 119 82% 47%; /* Bright Green */
+  --chart-3: 220 5% 12%; /* Dark Blue */
+  --chart-4: 32 30% 76%; /* Deep Blue-Green */
+  --chart-5: 356 69% 51%; /* Vivid Pink */
+
+  /* Sidebar-Specific Variables */
+  --sidebar-background: 159, 76%, 6%; /* Dark Blue */
+  --sidebar-foreground: 0 0% 100%; /* Bright Green */
+  --sidebar-primary: 356 69% 51%; /* Vivid Pink */
+  --sidebar-primary-foreground: 119 82% 47%; /* Bright Green */
+  --sidebar-accent: 158, 96%, 48%; /* Deep Blue-Green */
+  --sidebar-accent-foreground: 0 0% 0%; /* Dark Blue */
+  --sidebar-border: 158, 94%, 28%; /* Bright Green */
+  --sidebar-ring: 158, 94%, 28%; /* Vivid Pink */
+}

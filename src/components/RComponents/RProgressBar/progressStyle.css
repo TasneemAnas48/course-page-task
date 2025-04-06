@@ -1,0 +1,3 @@
+#nprogress .bar {
+  background: hsl(var(--secondary, 338, 79%, 65%)); /* Color */
+}

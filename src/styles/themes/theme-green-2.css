@@ -1,0 +1,37 @@
+html[data-theme="green 2"] {
+  --background: 141 40% 95%; /* Soft Light Mint */
+  --foreground: 155 50% 20%; /* Rich Deep Green */
+  --card: 152 45% 80%; /* Light Sage Green */
+  --card-foreground: 159 56% 10%; /* Deep Forest Green */
+  --popover: 147 35% 90%; /* Gentle Pastel Green */
+  --popover-foreground: 153 40% 35%; /* Subtle Olive Green */
+  --primary: 150 50% 65%; /* Balanced Vibrant Green */
+  --primary-foreground: 129 50% 95%; /* Soft White-Mint */
+  --secondary: 153 40% 45%; /* Earthy Olive Green */
+  --secondary-foreground: 141 40% 95%; /* Soft Light Mint */
+  --muted: 147 35% 75%; /* Subtle Pastel Green */
+  --muted-foreground: 152 40% 50%; /* Mid-tone Olive Green */
+  --accent: 150 50% 70%; /* Bright Fresh Green */
+  --accent-foreground: 153 40% 20%; /* Deep Olive Green */
+  --destructive: 155 60% 25%; /* Warm Deep Moss */
+  --destructive-foreground: 141 40% 95%; /* Soft Light Mint */
+  --border: 152 45% 75%; /* Subtle Sage */
+  --input: 147 35% 80%; /* Light Pastel Green */
+  --ring: 153 40% 30%; /* Rich Olive Green */
+  --chart-1: 141 40% 95%; /* Soft Light Mint */
+  --chart-2: 150 50% 70%; /* Bright Fresh Green */
+  --chart-3: 152 40% 45%; /* Earthy Olive Green */
+  --chart-4: 155 50% 20%; /* Rich Deep Green */
+  --chart-5: 153 40% 30%; /* Rich Olive Green */
+  --radius: 0.5rem; /* Border Radius */
+  --sidebar-background: 147 35% 85%; /* Gentle Pastel Green */
+  --sidebar-foreground: 153 40% 30%; /* Rich Olive Green */
+  --sidebar-primary: 155 50% 20%; /* Rich Deep Green */
+  --sidebar-primary-foreground: 141 40% 95%; /* Soft Light Mint */
+  --sidebar-accent: 150 50% 65%; /* Balanced Vibrant Green */
+  --sidebar-accent-foreground: 153 40% 30%; /* Rich Olive Green */
+  --sidebar-border: 152 45% 75%; /* Subtle Sage */
+  --sidebar-ring: 153 40% 35%; /* Subtle Olive Green */
+  --scroll-bar: 155 50% 25%; /* Darker Moss */
+  --scroll-bar-hover: 152 45% 45%; /* Earthy Olive Green */
+}

@@ -1,0 +1,36 @@
+html[data-theme='warm-pink'] {
+    --background: 20 80% 95%; /* Soft Peach */
+    --foreground: 20 30% 20%; /* Dark Peach */
+    --card: 20 80% 95%; /* Soft Peach */
+    --card-foreground: 20 30% 15%; /* Dark Peach */
+    --primary: 10 70% 55%; /* Warm Pink */
+    --primary-foreground: 20 80% 98%; /* Soft Peach */
+    --secondary: 340 80% 70%; /* Pink */
+    --secondary-foreground: 20 30% 98%; /* Soft Peach */
+    --muted: 20 50% 85%; /* Soft Peach */
+    --muted-foreground: 20 20% 40%; /* Dark Peach */
+    --accent: 0 60% 50%; /* Coral */
+    --accent-foreground: 20 30% 98%; /* Soft Peach */
+    --destructive: 0 90% 60%; /* Red */
+    --destructive-foreground: 20 20% 98%; /* Soft Peach */
+    --border: 20 20% 90%; /* Light Peach */
+    --input: 20 20% 90%; /* Light Peach */
+    --ring: 10 60% 60%; /* Pinkish Coral */
+
+    /* Sidebar Colors */
+    --sidebar-background: 20 20% 90%; /* Light Peach */
+    --sidebar-foreground: 20 30% 20%; /* Dark Peach */
+    --sidebar-primary: 10 70% 55%; /* Warm Pink */
+    --sidebar-primary-foreground: 20 80% 98%; /* Soft Peach */
+    --sidebar-accent: 340 80% 70%; /* Pink */
+    --sidebar-accent-foreground: 20 30% 98%; /* Soft Peach */
+    --sidebar-border: 20 20% 80%; /* Light Peach */
+    --sidebar-ring: 10 60% 60%; /* Pinkish Coral */
+
+    /* Chart Colors */
+    --chart-1: 10 70% 60%; /* Warm Pink */
+    --chart-2: 340 70% 65%; /* Pink */
+    --chart-3: 20 80% 70%; /* Peach */
+    --chart-4: 50 80% 65%; /* Yellow */
+    --chart-5: 0 80% 70%; /* Red */
+}

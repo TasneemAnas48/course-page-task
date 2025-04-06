@@ -1,0 +1,36 @@
+html[data-theme='blue-green'] {
+    --background: 210 15% 95%; /* Light Blue */
+    --foreground: 210 10% 20%; /* Dark Blue */
+    --card: 210 10% 95%; /* Light Blue */
+    --card-foreground: 210 10% 10%; /* Dark Blue */
+    --primary: 200 100% 60%; /* Blue */
+    --primary-foreground: 210 100% 98%; /* Light Blue */
+    --secondary: 180 100% 50%; /* Turquoise */
+    --secondary-foreground: 210 40% 98%; /* Light Blue */
+    --muted: 190 50% 85%; /* Soft Blue */
+    --muted-foreground: 210 30% 35%; /* Dark Blue */
+    --accent: 170 80% 40%; /* Teal */
+    --accent-foreground: 210 40% 98%; /* Light Blue */
+    --destructive: 0 90% 60%; /* Red */
+    --destructive-foreground: 210 40% 98%; /* Light Blue */
+    --border: 210 20% 90%; /* Light Blue */
+    --input: 210 20% 90%; /* Light Blue */
+    --ring: 200 80% 60%; /* Blue */
+
+    /* Sidebar Colors */
+    --sidebar-background: 210 20% 90%; /* Light Blue */
+    --sidebar-foreground: 210 10% 15%; /* Darker Blue */
+    --sidebar-primary: 200 100% 60%; /* Blue */
+    --sidebar-primary-foreground: 210 100% 98%; /* Light Blue */
+    --sidebar-accent: 180 100% 50%; /* Turquoise */
+    --sidebar-accent-foreground: 210 40% 98%; /* Light Blue */
+    --sidebar-border: 210 20% 80%; /* Light Blue */
+    --sidebar-ring: 200 80% 60%; /* Blue */
+
+    /* Chart Colors */
+    --chart-1: 200 70% 60%; /* Light Blue */
+    --chart-2: 180 60% 50%; /* Turquoise */
+    --chart-3: 150 60% 40%; /* Green */
+    --chart-4: 40 80% 60%; /* Yellow */
+    --chart-5: 10 80% 70%; /* Red */
+}

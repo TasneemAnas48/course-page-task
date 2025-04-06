@@ -1,0 +1,36 @@
+html[data-theme="green 1"] {
+  --background: 130 15% 95%; /* Light Green */
+  --foreground: 130 10% 20%; /* Dark Green */
+  --card: 130 10% 95%; /* Light Green */
+  --card-foreground: 130 10% 10%; /* Dark Green */
+  --primary: 131 85% 41%; /* Green */
+  --primary-foreground: 130 100% 98%; /* Light Green */
+  --secondary: 160 100% 40%; /* Aqua Green */
+  --secondary-foreground: 130 40% 98%; /* Light Green */
+  --muted: 150 50% 85%; /* Soft Green */
+  --muted-foreground: 130 30% 35%; /* Dark Green */
+  --accent: 160 100% 40%; /* Olive Green */
+  --accent-foreground: 130 40% 98%; /* Light Green */
+  --destructive: 0 90% 60%; /* Red */
+  --destructive-foreground: 130 40% 98%; /* Light Green */
+  --border: 130 20% 90%; /* Light Green */
+  --input: 130 12% 72%; /* Light Green */
+  --ring: 140 80% 60%; /* Green */
+
+  /* Sidebar Colors */
+  --sidebar-background: 130 20% 90%; /* Light Green */
+  --sidebar-foreground: 130 10% 15%; /* Darker Green */
+  --sidebar-primary: 140 100% 50%; /* Green */
+  --sidebar-primary-foreground: 130 100% 98%; /* Light Green */
+  --sidebar-accent: 160 100% 40%; /* Aqua Green */
+  --sidebar-accent-foreground: 130 40% 98%; /* Light Green */
+  --sidebar-border: 130 20% 80%; /* Light Green */
+  --sidebar-ring: 140 80% 60%; /* Green */
+
+  /* Chart Colors */
+  --chart-1: 140 70% 50%; /* Green */
+  --chart-2: 160 60% 45%; /* Aqua Green */
+  --chart-3: 100 60% 40%; /* Forest Green */
+  --chart-4: 60 80% 60%; /* Yellow-Green */
+  --chart-5: 10 80% 70%; /* Red */
+}
