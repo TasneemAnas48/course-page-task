@@ -10,7 +10,7 @@ const App = () => {
       element: <HomeLayout />,
       children: [
         {
-          path: '*',
+          path: '/course-page-task',
           element: <Navigate to="/course-page-task/home" replace />
         },
         publicRoutes,
